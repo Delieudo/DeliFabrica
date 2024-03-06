@@ -17,5 +17,5 @@ class Gato(Animal):
 
 
 
-meu_animal = Cachorro("Loky")
+meu_animal = Gato("pochita")
 print(meu_animal.nome, meu_animal.som())
