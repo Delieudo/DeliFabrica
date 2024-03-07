@@ -17,5 +17,5 @@ class Gato(Animal):
 
 
 
-meu_animal = Gato("pochita")
-print(meu_animal.nome, meu_animal.som())
+meu_animal = Gato("asta", "gato", "branco")
+print(meu_animal.nome, meu_animal.raca, meu_animal.cor, meu_animal.som())
